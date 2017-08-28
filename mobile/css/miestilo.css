@@ -1,0 +1,70 @@
+.ui-page { 
+    background:#0B4C5F;
+}
+
+ #mapa{
+ 	height: 300px;
+ 	width: 300px;
+ 	margin: 0 auto;
+ }
+
+.logos{
+    margin:10px;
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+
+}
+
+#tamanoLogo{
+    text-align:center;
+    line-height:90px;
+    font-family: 'Orbitron', sans-serif,font-size:15px;
+    font-size: 10px;
+
+}
+
+.logo3{
+    width: 200px;
+    height: 200px;
+}
+
+.logo4{
+    margin:10px;
+    border-radius: 10px;
+    width: 70px;
+    height: 70px;
+
+}
+#texto{
+    text-align: justify;
+    font-size: 8px;
+
+}
+
+
+#contenedorPrincipal{
+    width: auto;
+    height: auto;
+    margin: 1rem;
+    padding: 1rem;  
+  text-align: center;
+}
+
+.img{
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+    border-radius: 100px;
+}
+
+
+.img:hover
+{
+-webkit-transform: scale(0.5);
+-ms-transform: scale(0.5);
+transform: scale(0.5);
+cursor: pointer;
+}

@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+  	<meta charset="utf-8" /> <title>Estable</title>
+  	
+  	<!-- Definición de los archivos JS y CSS de forma local en nuestro servidor -->
+  	<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+  	<script type="text/javascript" src="js/jquery.mobile-1.4.3.min.js"></script>
+  	<link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.5.css"/>
+  	<link rel="stylesheet" type="text/css" href="css/miestilo.css"/>
+    <link rel="stylesheet" type="text/css" href="css/slider.css"/>
+  	<script type="text/javascript" src="js/maps.js"></script>  	
+  	<script type="text/javascript" src="js/jquery.gmap.js"></script>   
+  	<script type="text/javascript" src="js/mijs.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+
+   
+</head>
+<body>
+  <!--NUEVA PAGINA-->
+  <section id="inicio" data-role="page">
+	   <header data-role="header" data-theme="b">
+             <h1 id="tamanoLogo">
+            <a href="#inicio"><img class="logos" src="img/atomo.png" align="top"/></a>
+             ESTABLE  <font size= "2" color = "40E0D0">Informática</font>
+             </h1>
+              
+
+
+      </header>
+
+        <article data-role="content">
+				       <p style="text-align:center;color:#eee;"><b>OFRECEMOS RESPUESTA INTEGRAL A LAS NECESIDADES INFORMÁTICAS DE SU EMPRESA.</b></p>           
+                <div id="captioned-gallery">
+                  <figure class="slider">
+                    <figure>
+                      <img src="img/networking.jpg">
+                      <figcaption>Networking</figcaption>
+                    </figure>
+                    <figure>
+                      <img src="img/soporte.jpg" alt>
+                      <figcaption>Soporte técnico</figcaption>
+                    </figure>
+                    <figure>
+                      <img src="img/virtualizacion.jpg" alt>
+                      <figcaption>Virtualización</figcaption>
+                    </figure>
+                    <figure>
+                      <img src="img/web.jpg" alt>
+                      <figcaption>Diseño Web</figcaption>
+                    </figure>
+                    <figure>
+                      <img src="img/host.jpg" alt>
+                      <figcaption>Hosting</figcaption>
+                    </figure>
+                  </figure>
+                </div>
+
+                <div id="contenedorPrincipal">
+                            
+                               <a href="#servicios"><img class="img" src="img/cisco.png" title="Networking" alt="Networking"></a>
+
+                             
+          
+                                <a href="#servicios"><img class="img" src="img/help.jpg" title="Mantenimiento Informático" alt="Mantenimiento"></a>
+     
+                                      
+                          
+               </div> 
+                <div id="contenedorPrincipal">
+                            
+                                 <a href="#servicios"><img class="img" src="img/web.png" title="Diseño Web" alt="Diseño Web"></a>
+                             
+          
+                                 <a href="#servicios"><img class="img" src="img/seguridad.png" title="Seguridad Informática" alt="Seguridad Informática"></a>
+     
+                               
+                          
+               </div>
+                     <div id="contenedorPrincipal">
+                            
+                                 <a href="#servicios"><img class="img" src="img/virtualization.jpg" title="Virtualización" alt="Virtualización"></a>
+                             
+          
+                                 <a href="#servicios"><img class="img" src="img/back.jpg" title="Politicas de Backup" alt="Politicas de Backup"></a>
+     
+                               
+                          
+               </div>         
+
+				 </article>
+        			 
+
+       <footer data-role="footer" data-id="menuInferior" data-position="fixed" data-theme="a">
+             <nav data-role="navbar">
+                <ul>
+					         <li><a href="#inicio" class="ui-btn-active ui-state-persist" data-icon="home">Inicio</a></li>
+					         <li><a href="#servicios" data-transition="pop" data-icon="shop">Servicios</a></li>
+					         <li><a href="#empresa" data-transition="pop" data-icon="info">Sobre Nosotros</a></li>
+					         <li><a href="#contactar" data-transition="pop" data-icon="mail">Contactar</a></li>
+				 
+        		    </ul>
+             </nav>
+        </footer>
+    </section>
+
+
+    <!--PAGINA NUEVA-->
+    <section id="servicios" data-role="page">
+	     <header data-role="header" data-theme="b">
+                  <h1 id="tamanoLogo">
+                      <a href="#inicio"><img class="logos" src="img/atomo.png" align="top"/></a>
+                      ESTABLE  <font color = "40E0D0">Informática</font>
+                  </h1>
+                 
+       </header>
+
+          <article data-role="content">				    
+					    <div  align="center" id="logo">
+					    <!--Insertamos imagen logo-->
+					         <a href="#inicio"><img style="border-radius:40px;"  class="logo3"  src="img/servicios.png"/></a>
+			        </div>
+              <div id="tabs" data-role="tabs">
+                    <div data-role="navbar">  
+                      <ul>
+                        <li><a id="texto" href="#tabs-1" class="ui-btn-active ui-state-persist" data-theme="b">Mantenimiento</a></li>
+                        <li><a id="texto" href="#tabs-2" data-theme="b">Networking</a></li>
+                        <li><a id="texto" href="#tabs-3" data-theme="b">Diseño Web</a></li>
+                        <li><a id="texto"  href="#tabs-4" data-theme="b">Virtualización</a></li>
+                        <li><a id="texto" href="#tabs-5" data-theme="b">Seguridad</a></li>
+                         
+                         
+
+                      </ul>
+                    </div>  
+                    <div id="tabs-1">
+                      <a href="#inicio"><img style="border-radius:10px; margin:10px;"  class="logo4"  src="img/7.jpg" align="left"/></a>
+                      <p id="resolucion" style="color:#FFFFFF;font-family: 'Roboto', sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec vehicula enim. Nulla feugiat ex eu suscipit tincidunt. Praesent vitae placerat ligula, non maximus urna. In libero turpis, aliquet eget ex sed, feugiat convallis nisi.<br><br>Aenean tempor ex at feugiat cursus. Etiam congue dictum ex, vel eleifend mi gravida vitae. Fusce erat orci, dignissim id tempor vel, dapibus id lectus. Aliquam in volutpat risus, vel egestas eros. Suspendisse potenti. Vestibulum a consectetur ante, non consequat mauris. Nulla quis dolor luctus, fringilla mauris at, eleifend est.
+                      <br><br><cite>Mauris quis gravida tortor, a consectetur nisl. Morbi interdum vitae purus ut gravida. In id suscipit nunc. Etiam varius enim id vehicula porta. Fusce et mi vel lorem efficitur varius.</cite>
+
+  
+                      </p>
+                    </div>
+                    <div id="tabs-2">
+                      <a href="#inicio"><img style="border-radius:10px; margin:10px;"  class="logo4"  src="img/6.jpg" align="left"/></a>
+                      <p style="color:#FFFFFF;font-family: 'Roboto', sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec vehicula enim. Nulla feugiat ex eu suscipit tincidunt. Praesent vitae placerat ligula, non maximus urna. In libero turpis, aliquet eget ex sed, feugiat convallis nisi. Aenean tempor ex at feugiat cursus. 
+                      <br><br>Mauris quis gravida tortor, a consectetur nisl. Morbi interdum vitae purus ut gravida. In id suscipit nunc. Etiam varius enim id vehicula porta. Fusce et mi vel lorem efficitur varius. Maecenas at facilisis velit. Sed vitae commodo ipsum. Cras eu orci dictum, feugiat sapien in, laoreet dui. Aenean et felis finibus, pulvinar nibh id, porttitor erat.
+                      <br><br>
+                     Nam molestie nulla mattis, tincidunt lorem a, faucibus velit. Quisque lobortis rhoncus ante, sit amet porttitor neque malesuada eget. Sed sagittis leo ex, sit amet vehicula lacus egestas eget.
+                      <br><br>
+                      Maecenas auctor diam sit amet nisi molestie, at facilisis ante ornare. Cras feugiat auctor dapibus. Maecenas molestie lobortis felis, nec tincidunt nunc malesuada ornare.
+                      </p>
+                    </div>
+                    <div id="tabs-3">
+                      <a href="#inicio"><img style="border-radius:10px; margin:10px;"  class="logo4"  src="img/8.jpg" align="left"/></a>
+                      <p style="color:#FFFFFF;font-family: 'Roboto', sans-serif;">Sed condimentum turpis molestie, cursus arcu sit amet, vestibulum dolor. Mauris fringilla tellus at molestie molestie. Integer vulputate odio nec euismod sollicitudin. In magna lacus, commodo in eros et, auctor ultricies nisi. Nulla dignissim tristique ipsum, a lobortis velit tempus in. Morbi ornare dolor eu leo eleifend lacinia. Aliquam vitae gravida risus.<br><br>
+                     Sed condimentum turpis molestie, cursus arcu sit amet, vestibulum dolor. Mauris fringilla tellus at molestie molestie. Integer vulputate odio nec euismod sollicitudin. In magna lacus, commodo in eros et, auctor ultricies nisi. Nulla dignissim tristique ipsum, a lobortis velit tempus in. Morbi ornare dolor eu leo eleifend lacinia. Aliquam vitae gravida risus.<br><br>
+                     Sed condimentum turpis molestie, cursus arcu sit amet, vestibulum dolor. Mauris fringilla tellus at molestie molestie. Integer vulputate odio nec euismod sollicitudin. In magna lacus, commodo in eros et, auctor ultricies nisi. Nulla dignissim tristique ipsum, a lobortis velit tempus in. Morbi ornare dolor eu leo eleifend lacinia. Aliquam vitae gravida risus.</p>
+                    </div>
+                    <div id="tabs-4">
+                      <a href="#inicio"><img style="border-radius:10px; margin:10px;"  class="logo4"  src="img/8.jpg" align="left"/></a>
+                      <p style="color:#FFFFFF;font-family: 'Roboto', sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec vehicula enim. Nulla feugiat ex eu suscipit tincidunt. Praesent vitae placerat ligula, non maximus urna. In libero turpis, aliquet eget ex sed, feugiat convallis nisi. Aenean tempor ex at feugiat cursus.<br><br>
+                      Mauris quis gravida tortor, a consectetur nisl. Morbi interdum vitae purus ut gravida. In id suscipit nunc. Etiam varius enim id vehicula porta. Fusce et mi vel lorem efficitur varius. Maecenas at facilisis velit. Sed vitae commodo ipsum. Cras eu orci dictum, feugiat sapien in, laoreet dui. Aenean et felis finibus, pulvinar nibh id, porttitor erat. Donec sit amet augue non leo vulputate fermentum ac ac metus. Nam elit justo, varius vel dictum ac, fermentum ac massa.
+                      <br><br><cite>Maecenas auctor diam sit amet nisi molestie, at facilisis ante ornare. Cras feugiat auctor dapibus. Maecenas molestie lobortis felis, nec tincidunt nunc malesuada ornare.</cite>
+                      </p>
+                    </div>
+                    <div id="tabs-5">
+                      <a href="#inicio"><img style="border-radius:10px; margin:10px;"  class="logo4"  src="img/11.jpg" align="left"/></a>
+                      <p style="color:#FFFFFF;font-family: 'Roboto', sans-serif;">   Maecenas auctor diam sit amet nisi molestie, at facilisis ante ornare. Cras feugiat auctor dapibus. Maecenas molestie lobortis felis, nec tincidunt nunc malesuada ornare.
+                      <br><br>
+                      Maecenas auctor diam sit amet nisi molestie, at facilisis ante ornare. Cras feugiat auctor dapibus. Maecenas molestie lobortis felis, nec tincidunt nunc malesuada ornare. Suspendisse sed libero et dolor rhoncus malesuada ac sit amet velit. Cras tempor justo id ante luctus porttitor. Fusce eget enim dapibus, iaculis justo vitae, scelerisque justo. Donec ut felis quam. Donec tempus velit ut nulla sollicitudin, id vehicula tortor egestas. Morbi fringilla mattis eros eget tristique. Nulla eu sapien id purus fringilla facilisis nec venenatis urna. Vestibulum commodo felis vel ex bibendum, nec facilisis ligula pulvinar. Nulla sit amet enim feugiat, commodo arcu eget, auctor augue.
+                      <br><br> 
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec vehicula enim. Nulla feugiat ex eu suscipit tincidunt. Praesent vitae placerat ligula, non maximus urna. In libero turpis, aliquet eget ex sed, feugiat convallis nisi. Aenean tempor ex at feugiat cursus.
+                      <br><br>
+                      Maecenas auctor diam sit amet nisi molestie, at facilisis ante ornare. Cras feugiat auctor dapibus. Maecenas molestie lobortis felis, nec tincidunt nunc malesuada ornare. Suspendisse sed libero et dolor rhoncus malesuada ac sit amet velit. Cras tempor justo id ante luctus porttitor. Fusce eget enim dapibus, iaculis justo vitae, scelerisque justo. Donec ut felis quam. Donec tempus velit ut nulla sollicitudin, id vehicula tortor egestas. Morbi fringilla mattis eros eget tristique. Nulla eu sapien id purus fringilla facilisis nec venenatis urna. Vestibulum commodo felis vel ex bibendum, nec facilisis ligula pulvinar. Nulla sit amet enim feugiat, commodo arcu eget, auctor augue.
+                      <br><br>
+                      Maecenas auctor diam sit amet nisi molestie, at facilisis ante ornare. Cras feugiat auctor dapibus. Maecenas molestie lobortis felis, nec tincidunt nunc malesuada ornare. Suspendisse sed libero et dolor rhoncus malesuada ac sit amet velit. Cras tempor justo id ante luctus porttitor. Fusce eget enim dapibus, iaculis justo vitae, scelerisque justo. Donec ut felis quam. Donec tempus velit ut nulla sollicitudin, id vehicula tortor egestas. Morbi fringilla mattis eros eget tristique. Nulla eu sapien id purus fringilla facilisis nec venenatis urna. Vestibulum commodo felis vel ex bibendum, nec facilisis ligula pulvinar. Nulla sit amet enim feugiat, commodo arcu eget, auctor augue.
+                      <br><br>
+                       Maecenas auctor diam sit amet nisi molestie, at facilisis ante ornare. Cras feugiat auctor dapibus. Maecenas molestie lobortis felis, nec tincidunt nunc malesuada ornare. Suspendisse sed libero et dolor rhoncus malesuada ac sit amet velit. Cras tempor justo id ante luctus porttitor. Fusce eget enim dapibus, iaculis justo vitae, scelerisque justo. Donec ut felis quam. Donec tempus velit ut nulla sollicitudin, id vehicula tortor egestas. Morbi fringilla mattis eros eget tristique. Nulla eu sapien id purus fringilla facilisis nec venenatis urna. Vestibulum commodo felis vel ex bibendum, nec facilisis ligula pulvinar. Nulla sit amet enim feugiat, commodo arcu eget, auctor augue.
+                      <br><br>
+                       Maecenas auctor diam sit amet nisi molestie, at facilisis ante ornare. Cras feugiat auctor dapibus. Maecenas molestie lobortis felis, nec tincidunt nunc malesuada ornare. Suspendisse sed libero et dolor rhoncus malesuada ac sit amet velit. Cras tempor justo id ante luctus porttitor. Fusce eget enim dapibus, iaculis justo vitae, scelerisque justo. Donec ut felis quam. Donec tempus velit ut nulla sollicitudin, id vehicula tortor egestas. Morbi fringilla mattis eros eget tristique. Nulla eu sapien id purus fringilla facilisis nec venenatis urna. Vestibulum commodo felis vel ex bibendum, nec facilisis ligula pulvinar. Nulla sit amet enim feugiat, commodo arcu eget, auctor augue.
+                       Sed condimentum turpis molestie, cursus arcu sit amet, vestibulum dolor</p>
+                    </div>
+             </div>
+
+              
+
+			 </article>      
+
+         <footer data-role="footer" data-id="menuInferior" data-position="fixed" data-theme="a">
+                <nav data-role="navbar">
+                     <ul>
+					                 <li><a href="#inicio" data-transition="pop" data-icon="home">Inicio</a></li>
+					                 <li><a href="#servicios"   class="ui-btn-active ui-state-persist" data-icon="shop">Servicios</a></li>
+					                 <li><a href="#empresa" data-transition="pop" data-icon="info">Sobre Nosotros</a></li>
+ 		 	   	                 <li><a href="#contactar" data-transition="pop" data-icon="mail">Contactar</a></li>
+				 	           </ul>
+               </nav>
+        </footer>
+    </section>
+
+    <!--PAGINA NUEVA-->
+	  <section id="empresa" data-role="page">
+  		  <header data-role="header" data-theme="b">
+	                <h1 id="tamanoLogo">
+                        <a href="#inicio"><img class="logos" src="img/atomo.png" align="top"/></a>
+                       ESTABLE  <font color = "40E0D0">Informática</font>
+                  </h1>
+        </header>
+	      <article data-role="content">
+						
+						 <div  align="center" id="logo">
+					         <!--Insertamos imagen logo-->
+					         <a href="#inicio"><img class="logo3"  src="img/quienes-somos.png"/></a>
+			       </div>	
+			            <!--Utilizamos collapsible para Empresa-->
+			       <div data-role="collapsible" data-theme="b" data-collapsed="false">
+			             <h3>Historia</h3>
+			             <p style="text-align:center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec vehicula enim. Nulla feugiat ex eu suscipit tincidunt. Praesent vitae placerat ligula, non maximus urna. In libero turpis, aliquet eget ex sed, feugiat convallis nisi. Aenean tempor ex at feugiat cursus. Etiam congue dictum ex, vel eleifend mi gravida vitae. Fusce erat orci, dignissim id tempor vel, dapibus id lectus.<br><br>
+
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec vehicula enim. Nulla feugiat ex eu suscipit tincidunt. Praesent vitae placerat ligula, non maximus urna. In libero turpis, aliquet eget ex sed, feugiat convallis nisi. Aenean tempor ex at feugiat cursus. Etiam congue dictum ex, vel eleifend mi gravida vitae. Fusce erat orci, dignissim id tempor vel, dapibus id lectus. Aliquam in volutpat risus, vel egestas eros. Suspendisse potenti. Vestibulum a consectetur ante, non consequat mauris. Nulla quis dolor luctus, fringilla mauris at, eleifend est.<br><br>
+
+                    Mauris quis gravida tortor, a consectetur nisl. Morbi interdum vitae purus ut gravida. In id suscipit nunc. Etiam varius enim id vehicula porta. Fusce et mi vel lorem efficitur varius. Maecenas at facilisis velit.</p>			        			     		         	
+             
+			     		         	
+              </div>
+              <div data-role="collapsible" data-theme="b" data-collapsed="true">
+                       
+			                 <h3>¿Dónde estamos</h3>
+			                 <p style="text-align:center"> Delegación de Madrid</p>
+			                 <p style="text-align:center"> Calle Alcobendas nº 12, local 3</p>
+			                 <p style="text-align:center"> 28086- Madrid(Madrid)</p>
+			                 <a href="#" data-role="button" id="mostrar" data-position="center" >Mostrar ubicación</a>
+			                 <div  id="mapa"></div> 	               			     		         	
+             </div>
+		                                       
+			 </article>
+
+	     <footer data-role="footer" data-id="menuInferior" data-position="fixed" data-theme="a">
+	             <nav data-role="navbar">
+	                <ul>
+			         			 <li><a href="#inicio" data-transition="pop" data-icon="home">Inicio</a></li>
+						         <li><a href="#servicios"  data-transition="pop" data-icon="shop">Servicios</a></li>
+						         <li><a href="#empresa" class="ui-btn-active ui-state-persist" data-icon="info">Sobre Nosotros</a></li>
+					           <li><a href="#contactar" data-transition="pop" data-icon="mail">Contactar</a></li>
+					    		</ul>
+	            </nav>
+	     </footer>
+	 </section>
+
+       <!--PAGINA NUEVA-->
+	 <section id="contactar" data-role="page">
+		   <header data-role="header" data-theme="b">
+	               <h1 id="tamanoLogo">
+                        <a href="#inicio"><img class="logos" src="img/atomo.png" align="top"/></a>
+                       ESTABLE  <font color = "40E0D0">Informática</font>
+                 </h1>
+	     </header>
+       <article data-role="content">
+            <!--conjunto collapsible para contacto y datos-->
+            <div data-role="collapsible-set">
+               	<div align="center" data-role="collapsible" data-collapsed="false" data-theme="b">
+            	       	<h3>Teléfono</h3>
+              		    <img id="telefono" src="img/contacto/telefono.png" width="50" height="50"/>
+               		    <p style="font-family:verdana"><b>Tlf. Información:(+34)XXX XXX XXX</b></p>
+              		    <p style="font-family:verdana"><b>Tlf. Soporte:    (+34)XXX XXX XXX<b></p>
+              		    <p style="font-family:verdana"><b>Fax:             (+34)XXX XXX XXX<b></p>
+            	  </div>
+            	  <div align="center" data-role="collapsible" data-theme="a">
+            		      <h3>Skype</h3>
+            		      <img id="telefono" src="img/contacto/skype.jpg" width="50" height="50"/><br>
+            		      <a style="font-family:verdana;text-decoration:none;color:black" href="#">empresa.conecta.online /</a>
+            		      <a style="font-family:verdana;text-decoration:none;color:black" href="#">soporte.conecta.online</a>
+            	  </div>
+            	  <div align="center" data-role="collapsible" data-theme="b">
+            		      <h3>Redes sociales</h3>
+            		      <a style="font-family:verdana;text-decoration:none;color:black" href="#">www.facebook.com<img id="telefono" src="img/contacto/facebook.png" width="20" height="20"></a><hr>
+	            	      <a style="font-family:verdana;text-decoration:none;color:black" href="#">www.twitter.com<img id="telefono" src="img/contacto/twitter.jpg" width="20" height="20"></a><hr>
+	                   <a style="font-family:verdana;text-decoration:none;color:black" href="#">www.linkedin.com<img id="telefono" src="img/contacto/linkedin.jpg" width="20" height="20"></a>		
+            	</div>
+            	<div align="center" data-role="collapsible">
+            	      	<h3>Email</h3>
+            		      <img id="telefono" src="img/contacto/email.png" width="50" height="50"/><br><br>
+            		      <a style="font-family:verdana;text-decoration:none;color:black" href="mailto:tucorreo@gmail.com">Dpto. Compras Internacional -</a>
+            		      <a style="font-family:verdana;text-decoration:none;color:black" href="mailto:tucorreo@gmail.com">Dpto. Atención al Cliente</a><br><br>
+            		      <a style="font-family:verdana;text-decoration:none;color:black" href="mailto:tucorreo@gmail.com">Dpto. Soporte Técnico -</a>
+            		      <a style="font-family:verdana;text-decoration:none;color:black" href="mailto:tucorreo@gmail.com">Dpto. Recursos Humanos</a><br>
+            	</div>
+            	<div data-role="collapsible" data-theme="b">
+            		      <h3>Formulario</h3>
+                      <!--creamos el formulario-->
+            		      <form method="post" name="formularioContactar" action="enviar.php" id="formularioContactar">
+
+                           <label for="nombreContactar"><b>Nombre:</b></label>
+                           <input type="text" name="nombreContactar" id="nombreContactar" placeholder="Introduce tu nombre" required>
+
+                           <label for="apellidosContactar"><b>Apellidos:</b></label>
+                           <input type="text" name="apellidosContactar" id="apellidosContactar" placeholder="Introduce tus apellidos" required>
+
+                           <label for="telefonoContactar"><b>Teléfono:</b></label>
+                           <input type="number" name="telefonoContactar" id="telefonoContactar" placeholder="Introduce teléfono" required>
+
+                           <label for="mailContactar"><b>Introduce tu dirección de correo:</b></label>
+                           <input type="email"  name="mailContactar" id="mailContactar" placeholder="Introduce el email" required>
+
+                           <div class="ui-field-contain">
+                               <fieldset data-role="controlgroup">
+                                     <legend><b>Género</b></legend>
+                                     <select name="menuSeleccion" id="menuSeleccion" data-native-menu="false">
+                                          <option value="Masculino">Masculino</option>
+                                          <option value="Femenino">Femenino</option>
+                                     </select>  
+                               </fieldset>
+                           </div>  
+
+                         <label for="comentariosContactar"><b>Comentarios:</b></label>
+                         <textarea cols="40" rows="10" name="comentariosContactar" id="comentariosContactar" placeholder="Comentarios..." required></textarea>
+
+                         <input type="submit" name="btnEnviar" id="btnEnviar" value="Enviar Formulario">
+                         <input type="reset"  name="btnreset"  id="btnreset"  value="Limpiar campos">
+                    </form> 
+                    <!--finalizar formulario-->
+            	</div>
+            </div> 
+       </article>	     
+     
+	     <footer data-role="footer" data-id="menuInferior" data-position="fixed" data-theme="a">
+	             <nav data-role="navbar">
+	                 <ul>
+				          		<li><a href="#inicio" data-transition="pop" data-icon="home">Inicio</a></li>
+						          <li><a href="#servicios"  data-transition="pop" data-icon="shop">Servicios</a></li>
+						          <li><a href="#empresa" data-transition="pop" data-icon="info">Sobre Nosotros</a></li>
+						          <li><a href="#contactar" class="ui-btn-active ui-state-persist" data-icon="mail">Contactar</a></li>
+					     		</ul>
+	             </nav>
+	     </footer>
+	 </section>
+ 
+</body>
+</html>
