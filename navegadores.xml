@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- FECHA: 29/08/2014
+- REGISTROS: 187
+-->
+<navegadores>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36</useragent>
+        <vista>normal</vista>
+        </dispositivo>
+        
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET4.0C; .NET4.0E)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 4.0.4; es-us; Lenovo A660 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B651 Safari/9537.53</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; rv:27.0) Gecko/20100101 Firefox/27.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)</useragent>
+        <vista>desconocido</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET4.0C)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; .NET CLR 1.0.3705)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BTRS100147; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Java/1.6.0_04</useragent>
+        <vista>desconocido</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0; rv:27.0) Gecko/20100101 Firefox/27.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; WinuE v6)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 2.3.6; es-es; GT-S6500D Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS125471; .NET CLR 2.0.50727)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; TAB10-201 Build/Xenta) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; BRI/2)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BTRS125471; .NET CLR 1.1.4322; .NET CLR 2.0.50727)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; .NET CLR 1.0.3705; InfoPath.2)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET4.0E; .NET4.0C; AskTbORJ/5.15.23.36191)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.149 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS125461; GTB7.5; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:28.0) Gecko/20100101 Firefox/28.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; .NET CLR 1.0.3705; InfoPath.2; .NET4.0C; .NET</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/7.0.1 Safari/537.73.11</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; Lenovo A660 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 2.3.6; es-es; GT-S5830 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows; U; Windows NT 6.1; es-ES; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET4.0C; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS100200; GTB7.5; InfoPath.1; .NET CLR 2.0.50727)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; .NET CLR 2.0.50727)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS110662; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET4.0C; .NET4.0E; InfoPath.2)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/33.0.1750.21 Mobile/11B651 Safari/9537.53</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; GT-P5110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.5.30729; .NET4.0C; .NET CLR 3.0.4506.2152; .NET CLR 2.0.50727)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS100147; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:12.0) Gecko/20100101 Firefox/12.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; InfoPath.2)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:29.0) Gecko/20100101 Firefox/29.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; BOIE9;ESES; rv:11.0) like Gecko</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.3; GT-I9300 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; rv:29.0) Gecko/20100101 Firefox/29.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.2.2; SM-G3815 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 3.1; es-es; GT-P7300 Build/HMJ37) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.2.2; SM-G3815 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.122 Mobile Safari/537.36</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.3; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)</useragent>
+        <vista>desconocido</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS103020; SIMBAR=676037860801395807; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; Of</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.2.2; SM-G3815 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko/20100101 Firefox/11.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:30.0) Gecko/20100101 Firefox/30.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.2.2; es-es; SAMSUNG GT-I9195 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 1.1.4322)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS125465; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.1.2; C2105 Build/15.0.A.2.17) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; LETAB714 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 2.3.6; es-es; GT-I9000 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 4.2.1; es-es; bq Aquaris 5 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; U; Android 4.0.4; es-es; SAMSUNG GT-S7560/S7560XXAME9 Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0;WUID=6DB81BC0187246B79F22536AA702DB2D;WTB=18196)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>ContextAd Bot 1.0</useragent>
+        <vista>desconocido</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; AlexaToolbar/amzni-3.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; AlexaTool</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Java/1.7.0_55</useragent>
+        <vista>desconocido</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4033X Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.4.2; SM-P905 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.23 Safari/537.36 IR/1</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.4.2; es-es; SAMSUNG SM-N9005 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Java/1.7.0_51</useragent>
+        <vista>desconocido</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 7041D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.2)</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (SMART-TV; X11; Linux i686) AppleWebKit/535.20+ (KHTML, like Gecko) Version/5.0 Safari/535.20+</useragent>
+        <vista>multiplataforma</vista>
+    </dispositivo>
+    <dispositivo>
+        <useragent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.102 Safari/537.36</useragent>
+        <vista>normal</vista>
+    </dispositivo>
+
+</navegadores>

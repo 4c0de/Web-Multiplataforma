@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8" />
+	<title>Stable Informática</title>
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/servicios.css"/> 
+    <script type="text/javascript" src="js/mootools-yui-compressed.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/thumb.css"/>  
+
+<script type="text/javascript">
+window.addEvent('domready',function(){
+$$('div.thumb').each(function(div){
+
+	div.getElement('div.someContent').set('tween', {duration:'700'});
+	div.getElement('div.divLeft').set('tween', {duration: '450'});
+	div.getElement('div.divRight').set('tween', {duration: '450'});
+	
+	div.addEvent('mouseenter',function(e){
+		this.getElement('div.divLeft').tween('left','-70px')
+		this.getElement('div.divRight').tween('left','80px')
+		this.getElement('div.someContent').tween("background-position", "-20px 0px");
+	})
+	div.addEvent('mouseleave',function(e){
+		this.getElement('div.divLeft').tween('left','0px')
+		this.getElement('div.divRight').tween('left','0px')
+		this.getElement('div.someContent').tween("background-position", "0px -167px");
+
+	})
+})
+})
+</script>	 
+
+  
+</head>
+
+<body>
+
+<header>
+	<div class="main-width">
+		 <h1 id="logo"><a  href="index.html">Estable <span>Informática</span><img  width=45  heigth=45 class="logos" src="img/atomo.png" align="left"/></a></h1>
+		<nav>
+			<ul>
+				<li><a href="index.html"><span>Inicio</span></a></li>
+				<li><a href="servicios.html"><span>Servicios</span></a></li>
+				<li><a href="#"><span>Tarifas</span></a></li>				
+				<li><a href="empresa.html"><span>Sobre nosotros</span></a></li>
+				<li><a href="contactar.html"><span>Contactar</span></a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+
+<section>
+	<article id="service">
+		<h3 style="text-align:center;color:#2E9AFE"> Nuestros Servicios</h3>
+		<p style="margin-left:20px;font-size:20px;color:#FFFFFF;text-align:center">Nam molestie nulla mattis, tincidunt lorem a, faucibus velit. Quisque lobortis rhoncus ante, sit amet porttitor neque malesuada eget.</p>
+		<div id="w">
+    </article>	
+	
+
+</section>   
+
+<section>
+<div class="container">
+
+<div class='thumb'>
+	<div class='someContent'>
+		<div class='content'>Nam molestie nulla mattis, tincidunt lorem a, faucibus velit. Quisque lobortis rhoncus ante, sit amet porttitor neque malesuada eget. Sed sagittis leo ex, sit amet vehicula lacus egestas eget.</div>
+		<div class='more'><a href="#" target="_blank">Más &raquo;</a></div>
+	</div>
+	<div class='divLeft' style='left:0px'>
+		<div class='divLeftImage' style='background:url(img/7.jpg);'></div>
+		<div class='divLeftShadow'></div>
+	</div>
+	<div class='divRight' style='left:0px;background-image:url(img/7.jpg);'></div>
+	<img class="thumbnail-shadow" alt="bottom" src="img/thumbnail-shadow.png"/>
+</div>
+
+<div class='thumb'>
+	<div class='someContent'>
+		<div class='content'>Nam molestie nulla mattis, tincidunt lorem a, faucibus velit. Quisque lobortis rhoncus ante, sit amet porttitor neque malesuada eget. Sed sagittis leo ex, sit amet vehicula lacus egestas eget. </div>
+		<div class='more'><a href="#" target="_blank">Más &raquo;</a></div>
+	</div>
+	<div class='divLeft' style='left:0px'>
+		<div class='divLeftImage' style='background:url(img/6.jpg);'></div>
+		<div class='divLeftShadow'></div>
+	</div>
+	<div class='divRight' style='left:0px;background-image:url(img/6.jpg);'></div>
+	<img class="thumbnail-shadow" alt="bottom" src="img/thumbnail-shadow.png"/>
+</div>
+
+<div class='thumb'>
+	<div class='someContent'>
+		<div class='content'>Nam molestie nulla mattis, tincidunt lorem a, faucibus velit. Quisque lobortis rhoncus ante, sit amet porttitor neque malesuada eget. Sed sagittis leo ex, sit amet vehicula lacus egestas eget.</div>
+		<div class='more'><a href="#" target="_blank">Más &raquo;</a></div>
+	</div>
+	<div class='divLeft' style='left:0px'>
+		<div class='divLeftImage' style='background:url(img/8.jpg);'></div>
+		<div class='divLeftShadow'></div>
+	</div>
+	<div class='divRight' style='left:0px;background-image:url(img/8.jpg);'></div>
+	<img class="thumbnail-shadow" alt="bottom" src="img/thumbnail-shadow.png"/>
+</div>
+
+
+<div class='thumb'>
+	<div class='someContent'>
+		<div class='content'>Nam molestie nulla mattis, tincidunt lorem a, faucibus velit. Quisque lobortis rhoncus ante, sit amet porttitor neque malesuada eget. Sed sagittis leo ex, sit amet vehicula lacus egestas eget.</div>
+		<div class='more'><a href="#" target="_blank">Más &raquo;</a></div>
+	</div>
+	<div class='divLeft' style='left:0px'>
+		<div class='divLeftImage' style='background:url(img/9.jpg);'></div>
+		<div class='divLeftShadow'></div>
+	</div>
+	<div class='divRight' style='left:0px;background-image:url(img/9.jpg);'></div>
+	<img class="thumbnail-shadow" alt="bottom" src="img/thumbnail-shadow.png"/>
+</div>
+
+
+<div class='thumb'>
+	<div class='someContent'>
+		<div class='content'>Nam molestie nulla mattis, tincidunt lorem a, faucibus velit. Quisque lobortis rhoncus ante, sit amet porttitor neque malesuada eget. Sed sagittis leo ex, sit amet vehicula lacus egestas eget.</div>
+		<div class='more'><a href="#" target="_blank">Más &raquo;</a></div>
+	</div>
+	<div class='divLeft' style='left:0px'>
+		<div class='divLeftImage' style='background:url(img/10.jpg);'></div>
+		<div class='divLeftShadow'></div>
+	</div>
+	<div class='divRight' style='left:0px;background-image:url(img/10.jpg);'></div>
+	<img class="thumbnail-shadow" alt="bottom" src="img/thumbnail-shadow.png"/>
+</div>
+
+
+<div class='thumb'>
+	<div class='someContent'>
+		<div class='content'>Nam molestie nulla mattis, tincidunt lorem a, faucibus velit. Quisque lobortis rhoncus ante, sit amet porttitor neque malesuada eget. Sed sagittis leo ex, sit amet vehicula lacus egestas eget.</div>
+		<div class='more'><a href="#" target="_blank">Más &raquo;</a></div>
+	</div>
+	<div class='divLeft' style='left:0px'>
+		<div class='divLeftImage' style='background:url(img/11.jpg);'></div>
+		<div class='divLeftShadow'></div>
+	</div>
+	<div class='divRight' style='left:0px;background-image:url(img/11.jpg);'></div>
+	<img class="thumbnail-shadow" alt="bottom" src="img/thumbnail-shadow.png"/>
+</div>
+
+
+<div style='float:none;clear:both;font-family:Arial;font-size:13px;color:white;'>
+	<b><a class='link' href="#"></a></b>
+</div>
+</div>
+</section>
+
+
+<footer>
+	<p>ESTABLE Informática 2017. Todos los derechos reservados.<p>
+</footer>		
+			
+
+
+
+</body>
+</html>
